@@ -6,3 +6,4 @@ Hal pertama yang dapat dilakukan yaitu dengan git clone repository ini.
 
 ### 2. Buka folder pada aplikasi visual studio
 Untuk menjalankan web API dapat membuka folder yang sudah dibuat di Visual Studio lalu run projectnya, setelah itu maka akan terlihat web api
+![](image1.png)
